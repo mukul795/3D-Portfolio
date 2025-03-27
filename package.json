@@ -1,5 +1,6 @@
 "scripts": {
   "install": "npm install",
+  "build": "vite build",
   "postinstall": "npm install vite"
 }
 
