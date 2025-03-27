@@ -1,8 +1,6 @@
 "scripts": {
   "build": "npx vite build"
 }
-
-
 {
   "name": "threejscc-portfolio",
   "private": true,
