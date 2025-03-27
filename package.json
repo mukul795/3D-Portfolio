@@ -1,6 +1,5 @@
 {
   "name": "3D-Portfolio",
-  
   "scripts": {
     "install": "npm install",
     "build": "vite build",
