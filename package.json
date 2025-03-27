@@ -1,3 +1,6 @@
+"scripts": {
+  "build": "npx vite build"
+}
 
 
 {
