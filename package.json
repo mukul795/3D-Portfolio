@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "build": "npm run build" // Or your framework's build command
+    "build": "npm run build"
   }
 }
 
