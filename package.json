@@ -1,6 +1,6 @@
 {
   "name": "3D-Portfolio",
-  "version": "1.0.0",
+  "version": "1.0.0"
   "scripts": {
     "install": "npm install",
     "build": "vite build",
