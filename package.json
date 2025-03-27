@@ -1,8 +1,18 @@
-"scripts": {
-  "install": "npm install",
-  "build": "vite build",
-  "postinstall": "npm install vite"
+{
+  "name": "3D-Portfolio",
+  "version": "1.0.0",
+  "scripts": {
+    "install": "npm install",
+    "build": "vite build",
+    "postinstall": "npm install vite"
+  },
+  "dependencies": {
+    "vite": "^4.0.0",
+    "react": "^18.0.0",
+    "three": "^0.150.0"
+  }
 }
+
 
 {
   "name": "threejscc-portfolio",
