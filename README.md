@@ -1,8 +1,6 @@
 # 🧑‍💻 Mukul's 3D Portfolio Website
 
-
-
-
+![UI](Screenshot%20(207).png)
 
 A cutting-edge, interactive **3D portfolio website** built using **Three.js**, **React**, and **TailwindCSS**. This project showcases my MERN & Machine Learning skills through a dynamic developer desk scene with motion and interactivity.
 
