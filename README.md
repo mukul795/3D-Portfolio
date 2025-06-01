@@ -1,5 +1,9 @@
 # 🧑‍💻 Mukul's 3D Portfolio Website
 
+
+
+
+
 A cutting-edge, interactive **3D portfolio website** built using **Three.js**, **React**, and **TailwindCSS**. This project showcases my MERN & Machine Learning skills through a dynamic developer desk scene with motion and interactivity.
 
 🌐 **Live Site**: [www.mukul.icu](https://www.mukul.icu)
@@ -23,20 +27,6 @@ A cutting-edge, interactive **3D portfolio website** built using **Three.js**, *
 - **Styling**: TailwindCSS
 - **3D & Animation**: Three.js, React Three Fiber, Drei
 - **Other**: EmailJS (for contact form), Framer Motion
-
----
-
-## 📸 Screenshots
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/portfolio-hero.png" width="800" alt="Hero section screenshot">
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/portfolio-about.png" width="800" alt="About section screenshot">
-</p>
-
-> Replace with actual URLs of your uploaded screenshots in your GitHub repo or use imgur/CDN.
 
 ---
 
